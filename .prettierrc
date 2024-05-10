@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "indent_style": "space",
+  "indent_size": 4
+}
